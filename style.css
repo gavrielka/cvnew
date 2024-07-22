@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+.header { background-color: #401cab; color: white; padding: 20px; text-align: center; }
+.header img { width: 150px; height: 150px; border-radius: 100%; margin-left: auto; }
+.header h1 { margin: 10px 0 5px; }
+.header p { margin: 10px 0; }
+.content { padding: 20px; }
+.section { margin-bottom: 20px; }
+.contact-form { max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #fff; }
+.contact-form label { display: block; margin-bottom: 5px; font-weight: bold; }
+.contact-form input, .contact-form textarea { width: 100%; padding: 10px; margin-bottom: 10px; border: 1px solid #ccc; border-radius: 5px; }
+.contact-form button { padding: 10px 20px; background-color: #185fac; color: #fff; border: none; border-radius: 5px; cursor: pointer; }
+.contact-form button:hover { background-color: #0056b3; }
+.footer { background-color: #3917e1; padding: 10px; text-align: center; }
+img { float: left;}
